@@ -33,7 +33,7 @@ h3 {
 #skillsHeader {
     color: coral;
 }
-p {
+.content {
     color: gray;
     font-size: 24px;
     font-family: 'Kodchasan', sans-serif;
@@ -43,6 +43,20 @@ p {
     font-weight: normal;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: lightblue;
+}
+
+.light {
+    background-color: lightseagreen;
+}
+
 img {
     width: 200px;
+    box-shadow: 3px 0 7px black;
+    margin: 10px;
 }
