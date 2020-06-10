@@ -1,0 +1,16 @@
+html {
+    background-color: #e0e0e0;
+    background-image: url("../img/background.png");
+}
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#color {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: rgba(51, 224, 216, .5);
+}
